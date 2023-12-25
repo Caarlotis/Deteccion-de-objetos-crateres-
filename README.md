@@ -9,11 +9,9 @@ Este repositorio presenta un emocionante proyecto de detección de objetos, espe
 
 - **Descripción:**
   - Se incluye código existente de otro colaborador, optimizado para su ejecución en Google Colab.
-  - El código utiliza TensorFlow Object Detection API para detectar objetos en imágenes.
 
 - **Características:**
   - Modelo preentrenado para la detección de objetos generales.
-  - Compatible con imágenes de diversas fuentes y resoluciones.
 
 - **Instrucciones de Uso:**
   - Ejecute el código en Google Colab.
@@ -33,15 +31,11 @@ Este repositorio presenta un emocionante proyecto de detección de objetos, espe
 
 - **Instrucciones de Uso:**
   - Debido al tamaño, las partes 2 y 3 del código no pueden ser proporcionadas directamente en este repositorio.
-  - Puede descargarlas desde [fuente externa] y seguir las instrucciones de integración con el código existente en la Parte 1.
+  - Puede descargarlas desde [[Descarga las partes 2 y 3 del código aquí](file:///C:/Users/Cristina%20Coiradas/Documents/4%C2%BA%20Ing%20Biom%C3%A9dica/1er%20cuatri/Procesamiento%20de%20Imagen/trabajo%2012%20noviembre/Actividad2PARTE2_3_CristinayLucia.html)] y seguir las instrucciones de integración con el código existente en la Parte 1.
 
 ---
 
 ### Contribuciones y Desarrollo Futuro
-
-- **Colaboración:**
-  - ¡Apreciamos las contribuciones de la comunidad para mejorar y expandir este proyecto!
-  - Siéntase libre de abrir problemas, solicitudes de extracción y participar en discusiones.
 
 - **Desarrollo Futuro:**
   - Planeamos mejorar la precisión y la generalización del modelo.
