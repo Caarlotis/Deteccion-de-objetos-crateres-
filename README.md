@@ -31,7 +31,7 @@ Este repositorio presenta un emocionante proyecto de detección de objetos, espe
 
 - **Instrucciones de Uso:**
   - Debido al tamaño, las partes 2 y 3 del código no pueden ser proporcionadas directamente en este repositorio.
-  - Puede descargarlas desde [[Descarga las partes 2 y 3 del código aquí](file:///C:/Users/Cristina%20Coiradas/Documents/4%C2%BA%20Ing%20Biom%C3%A9dica/1er%20cuatri/Procesamiento%20de%20Imagen/trabajo%2012%20noviembre/Actividad2PARTE2_3_CristinayLucia.html)] y seguir las instrucciones de integración con el código existente en la Parte 1.
+  - Puede descargarlas desde [(file:///C:/Users/Cristina%20Coiradas/Documents/4%C2%BA%20Ing%20Biom%C3%A9dica/1er%20cuatri/Procesamiento%20de%20Imagen/trabajo%2012%20noviembre/Actividad2PARTE2_3_CristinayLucia.html)] y seguir las instrucciones de integración con el código existente en la Parte 1.
 
 ---
 
