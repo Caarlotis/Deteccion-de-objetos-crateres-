@@ -40,7 +40,3 @@ Este repositorio presenta un emocionante proyecto de detección de objetos, espe
 - **Desarrollo Futuro:**
   - Planeamos mejorar la precisión y la generalización del modelo.
   - Explorar posibles aplicaciones en el ámbito sanitario para destacar la analogía propuesta.
-
----
-
-**¡Bienvenido al emocionante mundo de la detección de objetos lunares! 🌕🔍**
